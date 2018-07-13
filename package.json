@@ -1,5 +1,5 @@
 {
-  "name": "React+Redux",
+  "name": "React_Redux",
   "version": "0.0.1",
   "description": "Initial template React+Redux",
   "main": "app.js",
@@ -26,7 +26,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "express": "^4.16.3",
-    "purecss": "^1.0.0",
     "qs": "^6.5.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
